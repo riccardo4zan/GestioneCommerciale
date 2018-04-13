@@ -1,6 +1,6 @@
 # GestioneCommerciale
 
-#Create table and basic inserts
+Database to use the application
 
 CREATE TABLE Utenti(
 	username VARCHAR(50) NOT NULL,
